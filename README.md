@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+![image](https://user-images.githubusercontent.com/16457802/218289249-484d3953-267f-41b1-95f5-e79b6ecc41c3.png)
