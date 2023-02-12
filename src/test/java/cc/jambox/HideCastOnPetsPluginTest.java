@@ -1,13 +1,13 @@
-package com.example;
+package cc.jambox;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class HideCastOnPetsPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(ExamplePlugin.class);
+		ExternalPluginManager.loadBuiltin(HideCastOnPetsPlugin.class);
 		RuneLite.main(args);
 	}
 }
